@@ -5,4 +5,4 @@ DELETE FROM "user_logs";
 
 INSERT INTO "user_logs" ("type","old_username","new_username","old_password","new_password")
 VALUES
-('update','admin','admin','e10adc3949ba59abbe56e057f20f883e','cb4772eeda0ae562119b6c4be2e0889a');
+('update','admin','admin','e10adc3949ba59abbe56e057f20f883e','44bf025d27eea66336e5c1133c3827f7');
