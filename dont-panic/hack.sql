@@ -1,5 +1,5 @@
-UPDATE "users" SET "password" = '02c77002a0c646684b3325959fe147b2'
-WHERE "user" = 'admin';
+UPDATE "users" SET "password" = '982c0381c279d139fd221fce974916e7'
+WHERE "username" = 'admin';
 
 DELETE FROM "user_logs";
 
